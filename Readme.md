@@ -19,7 +19,7 @@ Unzip the package in app/code/Blackbird/CategoryEmptyButton, from the root of yo
 **Composer Package:**
 
 ```
-composer require blackbird/CategoryEmptyButton
+composer require blackbird/category_empty_button
 ```
 
 ### Install the module
