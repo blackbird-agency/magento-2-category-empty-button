@@ -9,11 +9,11 @@
  * to contact@bird.eu so we can send you a copy immediately.
  *
  * @category        Blackbird
- * @package         Blackbird_CatalogDefaultQty
+ * @package         Blackbird_CategoryEmptyButton
  * @copyright       Copyright (c) Blackbird (https://black.bird.eu)
  * @author          Blackbird Team
  * @license         MIT
- * @support         https://github.com/blackbird-agency/magento-2-category_empty_button/issues/new
+ * @support         https://github.com/blackbird-agency/magento-2-category-empty-button/issues/new
  */
 -->
 <config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
