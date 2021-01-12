@@ -1,5 +1,5 @@
 {
-    "name": "blackbird/categoryemptybutton",
+    "name": "blackbird/category-empty-button",
     "description": "",
     "require": {
         "magento/framework": ">=100.0.0",
