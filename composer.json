@@ -3,7 +3,7 @@
     "description": "",
     "require": {
         "magento/framework": ">=100.0.0",
-        "magento/module-catalog": "100.0.0"
+        "magento/module-catalog": ">=100.0.0"
     },
     "suggest": {
 
