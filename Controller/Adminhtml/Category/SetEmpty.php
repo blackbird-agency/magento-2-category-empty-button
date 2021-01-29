@@ -16,9 +16,9 @@
  */
 namespace Blackbird\CategoryEmptyButton\Controller\Adminhtml\Category;
 
-use Magento\Framework\App\Action\HttpPostActionInterface;
+use Magento\Framework\App\ActionInterface;
 
-class SetEmpty extends \Magento\Catalog\Controller\Adminhtml\Category implements HttpPostActionInterface
+class SetEmpty extends \Magento\Catalog\Controller\Adminhtml\Category implements ActionInterface
 {
     /**
      * @var \Magento\Framework\App\ResourceConnection
