@@ -10,9 +10,14 @@
     },
     "type": "magento2-module",
     "version": "1.0.2",
-    "license": [
-
+    "authors": [
+        {
+            "name": "Blackbird Agency",
+            "email": "contact@bird.eu",
+            "homepage": "https://black.bird.eu"
+        }
     ],
+    "license": "MIT",
     "autoload": {
         "files": [
             "registration.php"
