@@ -1,6 +1,6 @@
 # Category Empty Button
 
-[![Latest Stable Version](https://img.shields.io/packagist/v/blackbird/category-empty-button.svg?style=flat-square)](https://packagist.org/packages/blackbird/category-empty-button)
+[![Latest Stable Version](https://img.shields.io/packagist/v/blackbird/quick-category-save.svg?style=flat-square)](https://packagist.org/packages/blackbird/quick-category-save)
 [![License: MIT](https://img.shields.io/github/license/blackbird-agency/magento-2-category-empty-button.svg?style=flat-square)](./LICENSE)
 
 This module allows you to remove all the products from a category with a simple button.
